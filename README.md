@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+<img width="866" alt="screen shot 2018-04-13 at 12 29 44 pm" src="https://user-images.githubusercontent.com/10519110/39476050-a3bd9fa4-4d28-11e8-90d4-42e07d1c706a.png">
+
 You can use the [editor on GitHub](https://github.com/ksmith1990/ksmith1990.GitHub.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
