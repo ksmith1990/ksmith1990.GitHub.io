@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 1. Numbered
 1. List
-1.. Magic
+5. Magic
 
 **Bold** and _Italic_ and `Code` text
 
