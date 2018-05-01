@@ -23,6 +23,7 @@ Syntax highlighted code block
 1. Numbered
 1. List
 7. Magic
+9. Hi Julie!!
 
 **Bold** and _Italic_ and `Code` text
 
