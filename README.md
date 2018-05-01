@@ -19,7 +19,8 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-2. List
+0. List
+9. Magic
 
 **Bold** and _Italic_ and `Code` text
 
